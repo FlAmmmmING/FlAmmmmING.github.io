@@ -5,6 +5,8 @@ cover: /assets/images/cover3.jpg
 author: true
 star: true
 date: 2024-03-10
+tag:
+  - Brief Introduction
 ---
 
 # Nice to meet you. This is Jasin.

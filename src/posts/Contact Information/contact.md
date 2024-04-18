@@ -5,8 +5,7 @@ date: 2024-03-16
 # category:
 #   - Vegetable
 tag:
-  - red
-  - round
+  - contact
 star: true
 sticky: false
 footer: false

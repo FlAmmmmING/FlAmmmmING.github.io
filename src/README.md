@@ -16,9 +16,9 @@ author: true
 layout: BlogHome
 icon: home
 title: Jasin Jiang
-# heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+#heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 # The name of my blog
-heroText: Jasin Jiang 
+heroText: Jasin Jiang
 tagline: A man can be destroyed but not defeated
 heroFullScreen: true
 projects:
