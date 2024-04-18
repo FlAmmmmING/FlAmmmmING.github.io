@@ -24,7 +24,7 @@ heroFullScreen: true
 projects:
   - icon: laptop
     name: intufosun
-    desc: This is the first company where I intern. 
+    desc: This is the first company where I have interned. 
     link: https://www.intufosun.com/
 
   - icon: school
